@@ -17,6 +17,10 @@
       </thead>
       <tbody>
         <%= render 'order' %>
+        <tr>
+          <th colspan="3">Order Total:</th>
+          <th><%= humanized_money_with_symbol @sum /100.00 %></th>
+        </tr>
       </tbody>
     </table>
   </div>
