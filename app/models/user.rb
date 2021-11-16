@@ -12,7 +12,10 @@ class User < ActiveRecord::Base
   private
 
   def self.authenticate_with_credentials(email, password)
-    @user = User.find_by_email(email)
+    # remove white space and set to all lower case
+    normalized_email = email.strip.downcase
+    # @user = User.find_by_email(normalized_email)
+    @user = User.find_by('lower(email) =?', normalized_email)
     if @user && @user.authenticate(password)
       @user
     else 
