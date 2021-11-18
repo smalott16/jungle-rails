@@ -20,34 +20,29 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 - Add-to-cart functionality 
 
 ## Screenshots
-<img alt="Desktop view on page load" width="600" src="https://github.com/smalott16/jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.45.34%20PM.png?raw=true"></img>
 <p align="center">
-Home page displaying all products. 
+  <img alt="Desktop view on page load" width="600" src="https://github.com/smalott16/jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.45.34%20PM.png?raw=true"></img>
+  <p align="center">Home page displaying all products. </p>
+  <br>
 </p>
-<br>
 
-<img alt="sold out badge" width="250" src="https://github.com/smalott16/jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.56.42%20PM.png?raw=true"></img>
 <p align="center">
-Product displaying the "sold out" badge 
+  <img alt="sold out badge" width="250" src="https://github.com/smalott16/jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.56.42%20PM.png?raw=true"></img>
+  <p align="center">Product displaying the "sold out" badge </p>
+  <br>
 </p>
-<br>
 
-<img alt="Admin products view" width="600" src="https://github.com/smalott16/jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.55.07%20PM.png?raw=true"></img>
 <p align="center">
-Administrators product page. From here, admins can add and remove products from the store. 
+  <img alt="Admin products view" width="600" src="https://github.com/smalott16/jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.55.07%20PM.png?raw=true"></img>
+  <p align="center">Administrators product page. From here, admins can add and remove products from the store. </p>
+  <br>
 </p>
-<br>
 
-<img alt="Cart view" width="600" src="https://github.com/smalott16/jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.55.50%20PM.png?raw=true"></img>
 <p align="center">
-Cart Page
+  <img alt="Cart view" width="600" src="https://github.com/smalott16/jungle-rails/blob/master/docs/Screen%20Shot%202021-11-17%20at%204.55.50%20PM.png?raw=true"></img>
+  <p align="center">Cart Page</p>
+  <br>
 </p>
-<br>"></img>
-<p align="center">
-Administrators product page. From here, admins can add and remove products from the store. 
-</p>
-<br>
-
 
 ## Setup
 ### Additional Steps for Apple M1 Machines
